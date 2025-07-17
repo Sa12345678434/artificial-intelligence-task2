@@ -7,18 +7,15 @@ The project recognizes the color based on RGB values using data from colors.csv 
 
 
 ## Software used
-
 1. Anaconda
 2. Visual Studio
 
 
 ## Language used
-
  Python
 
 
 ## How this project works?
-
 1. Uploads an image and enlarges it to specific size
 2. When you click on any point in the image, its RGB values are calculated
 3. After calculating the RGB values for selected point, they are compared to values in colors.csv file to determine which color are closest to selected point
