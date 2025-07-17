@@ -6,11 +6,11 @@ This task involves a project that recognizes colors when you click on any point 
 The project recognizes the color based on RGB values using data from colors.csv file, and the color and its RGB values are displayed at the top of image.
 
 ## Software used
-1. Anaconda
-2. Visual Studio
+ 1. Anaconda
+ 2. Visual Studio
 
 ## Language used
-Python
+ Python
 
 ## How this project works?
 1. Uploads an image and enlarges it to specific size
