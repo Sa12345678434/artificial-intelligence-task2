@@ -14,4 +14,12 @@ Python
 
 ## How this project works?
 1. Uploads an image and enlarges it to specific size
-2. 
+2. When you click on any point in the image, its RGB values are calculated
+3. After calculating the RGB values for selected point, they are compared to values in colors.csv file to determine which color are closest to selected point
+4. The color name and its RGB values are showing at the top of the image
+
+## Steps to implement this project 
+1. I download Anaconda and Visual Studio 
+2. I clicked on __environments > base > open Terminal__ and then typed the following command:
+   __pip install opencv-python__
+3. 
