@@ -13,4 +13,5 @@ The project recognizes the color based on RGB values using data from colors.csv 
 Python
 
 ## How this project works?
-1.
+1. Uploads an image and enlarges it to specific size
+2. 
