@@ -12,4 +12,5 @@ The project recognizes the color based on RGB values using data from colors.csv 
 ## Language used
 Python
 
-
+## How this project works?
+1.
