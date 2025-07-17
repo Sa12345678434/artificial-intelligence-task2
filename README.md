@@ -28,4 +28,5 @@ The project recognizes the color based on RGB values using data from colors.csv 
 2. I clicked on __environments > base > open Terminal__ and then typed the following command:
 
    __pip install opencv-python__
-4. 
+4. On home page I clicked Launch for VS code
+5. 
