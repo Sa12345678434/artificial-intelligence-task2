@@ -21,5 +21,6 @@ Python
 ## Steps to implement this project 
 1. I download Anaconda and Visual Studio 
 2. I clicked on __environments > base > open Terminal__ and then typed the following command:
+
    __pip install opencv-python__
-3. 
+4. 
