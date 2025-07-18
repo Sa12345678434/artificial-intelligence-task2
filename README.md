@@ -30,6 +30,7 @@ The project recognizes the color based on RGB values using data from colors.csv 
    __pip install opencv-python__
 4. On home page I clicked Launch for VS code
 5. In Visual Studio code I clicked on __File > open folder > colors__
+
    The colors folder contains 6 images to test the project
-6. After opening the folder containing the images, I created new file named __colors.csv__, in which I stored the color values in form of a table in RGB and HEX formats
+7. After opening the folder containing the images, I created new file named __colors.csv__, in which I stored the color values in form of a table in RGB and HEX formats
     
