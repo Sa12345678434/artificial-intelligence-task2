@@ -39,8 +39,15 @@ The project recognizes the color based on RGB values using data from colors.csv 
    ![image_alt](https://github.com/Sa12345678434/artificial-intelligence-task2/blob/main/colors11.jpg?raw=true)
 
 8. I created new file named colors.ipynb, which is where I wrote the code in Python
+
+   ### Some important commands:
  
  ```colors = pd.read_csv('colors.csv')``` -----> This command reads the __colors.csv__ file to find out what closest color is as selected point in image based on RGB values 
+
+ ```img = cv2.imread('c6.jpg')``` -----> This command reads the image that I previously brought from folder 
  
-    
+ ```if cv2.waitKey(20) & 0xFF == 27:  
+        break```                     ------> The window will continue to appear until you press the Esc key
+
+ 
 
