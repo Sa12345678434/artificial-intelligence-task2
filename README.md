@@ -44,7 +44,7 @@ The project recognizes the color based on RGB values using data from colors.csv 
  
  ```colors = pd.read_csv('colors.csv')``` -----> This command reads the __colors.csv__ file to find out what closest color is as selected point in image based on RGB values 
 
- ```img = cv2.imread('c6.jpg')``` -----> This command reads the image that I previously brought from folder 
+ ```img = cv2.imread('c6.jpg')``` -----> This command reads the image that I previously brought from folder , there are 6 images so every time I change the image path here 
  
  ```if cv2.waitKey(20) & 0xFF == 27: break```  ------> The window will continue to appear until you press the Esc key  
                              
@@ -52,7 +52,10 @@ The project recognizes the color based on RGB values using data from colors.csv 
 
 ## Output
 
-|Before|after|
+
+
+
+
   
  
 
