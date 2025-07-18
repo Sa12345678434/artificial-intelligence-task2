@@ -48,6 +48,10 @@ The project recognizes the color based on RGB values using data from colors.csv 
  
  ```if cv2.waitKey(20) & 0xFF == 27: break```  ------> The window will continue to appear until you press the Esc key  
                              
+9. I run the code on base(Python 3.13.5)
 
+## Output
+
+  Before        |      after
  
 
