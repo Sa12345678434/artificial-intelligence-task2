@@ -48,7 +48,7 @@ The project recognizes the color based on RGB values using data from colors.csv 
  
  ```if cv2.waitKey(20) & 0xFF == 27: break```  ------> The window will continue to appear until you press the Esc key  
                              
-9. I run the code on base(Python 3.13.5)
+9. I run the code on base(Python 3.13.5), then the image that I set the path to appears to me and I click on any point to recognize the color and its RGB values
 
 ## Output
 
