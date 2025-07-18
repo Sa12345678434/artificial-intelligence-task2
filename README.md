@@ -32,10 +32,15 @@ The project recognizes the color based on RGB values using data from colors.csv 
 5. In Visual Studio code I clicked on __File > open folder > colors__
 
    The colors folder contains 6 images to test the project
-7. After opening the folder containing the images, I created new file named __colors.csv__, in which I stored the color values in form of a table in RGB and HEX formats
+7. After opening the folder containing the images, I created new file named __colors.csv__, in which I stored the color values in form of a table in RGB and HEX formats,which will be read to recognize the color
 
    image from file:
    
    ![image_alt](https://github.com/Sa12345678434/artificial-intelligence-task2/blob/main/colors11.jpg?raw=true)
 
-8. I 
+8. I created new file named colors.ipynb, which is where I wrote the code in Python
+ 
+ ```colors = pd.read_csv('colors.csv')``` -----> This command reads the __colors.csv__ file to find out what closest color is as selected point in image based on RGB values 
+ 
+    
+
