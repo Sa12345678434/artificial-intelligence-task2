@@ -52,7 +52,7 @@ The project recognizes the color based on RGB values using data from colors.csv 
 
 ## Output
 
-
+![image_alt]
 
 
 
