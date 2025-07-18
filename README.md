@@ -52,7 +52,8 @@ The project recognizes the color based on RGB values using data from colors.csv 
 
 ## Output
 
-![image_alt]
+![image_alt](https://github.com/Sa12345678434/artificial-intelligence-task2/blob/main/outp1.png?raw=true)
+
 
 
 
