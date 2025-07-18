@@ -35,5 +35,5 @@ The project recognizes the color based on RGB values using data from colors.csv 
 7. After opening the folder containing the images, I created new file named __colors.csv__, in which I stored the color values in form of a table in RGB and HEX formats
 
    image from file:
-   [!alt image](<img width="487" height="287" alt="image" src="https://github.com/user-attachments/assets/911f3c7a-1fb2-492b-9b92-267f982f2a02" />)
+   [!alt image](https://github.com/Sa12345678434/artificial-intelligence-task2/blob/main/colors11.jpg?raw=true)
 
