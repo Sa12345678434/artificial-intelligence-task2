@@ -47,7 +47,7 @@ The project recognizes the color based on RGB values using data from colors.csv 
  ```img = cv2.imread('c6.jpg')``` -----> This command reads the image that I previously brought from folder 
  
  ```if cv2.waitKey(20) & 0xFF == 27:  
-        break```                     ------> The window will continue to appear until you press the Esc key
+        break```                        ------> The window will continue to appear until you press the Esc key
 
  
 
