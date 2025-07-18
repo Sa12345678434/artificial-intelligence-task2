@@ -6,7 +6,7 @@ This task involves a project that recognizes colors when you click on any point 
 The project recognizes the color based on RGB values using data from colors.csv file, and the color and its RGB values are displayed at the top of image.
 
 
-## Software used
+## Softwares used
 1. Anaconda
 2. Visual Studio
 
